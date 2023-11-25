@@ -1,1 +1,1 @@
-# thalamocortical-Honsproj
+# thalamocortical
